@@ -1,5 +1,7 @@
 > **Docs:** [mcp security fundamentals](https://www.apisecuniversity.com/courses/mcp-security-fundamentals)
 
+> **Docs:** [OWASP MCP TOP 10](https://owasp.org/www-project-mcp-top-10/)
+
 > *la estandarización de un MCP es el USB-C de nuestra epoca*
 
 ## ¿Que es MCP?
