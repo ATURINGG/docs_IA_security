@@ -50,7 +50,8 @@ Cuando se diseñó MCP se pensó justamente en estandarizar las comunicaciocione
 | N/A      | MCP Server       |
 | N/A      | External systems |
 
-
+## Arquitectura de amenazas MCP
+![compromise_MCP](assets/arquitectura_amenazas_MCP.png)
 
 
 
